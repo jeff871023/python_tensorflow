@@ -1,1 +1,3 @@
-# python_tensorflow
+用python裡面的tensorflow
+抓已有數字數據進行辨識
+data裡面放小畫家畫的數字
